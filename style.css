@@ -1,0 +1,59 @@
+body {
+    background-color: #f7f7fb;
+}
+
+.title {
+    text-align: center;
+    color: #1c1c1c;
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.stButton button {
+    background-color: #8b5cf6;
+    color: white;
+    border-radius: 14px;
+    border: none;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.stButton button:hover {
+    background-color: #7c3aed;
+    color: white;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 18px;
+    box-shadow: 0px 4px 20px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+}
+
+.safe-bar {
+    background: #d1fae5;
+    color: #065f46;
+    padding: 12px;
+    border-radius: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.sos-bar {
+    background: #fee2e2;
+    color: #991b1b;
+    padding: 12px;
+    border-radius: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.metric-box {
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.08);
+}
